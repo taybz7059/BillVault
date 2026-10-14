@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Receipt base sheet -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M34,26 L66,26 L74,34 L74,78 C74,80.2 72.2,82 70,82 L34,82 C31.8,82 30,80.2 30,78 L30,30 C30,27.8 31.8,26 34,26 Z" />
+
+    <!-- Folded receipt top-right corner -->
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M66,26 L66,34 L74,34 Z" />
+
+    <!-- Receipt lines (bill details) -->
+    <path
+        android:fillColor="#64748B"
+        android:pathData="M36,36 L58,36 A1.5,1.5 0 0 1 58,39 L36,39 A1.5,1.5 0 0 1 36,36 Z" />
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M36,44 L68,44 A1.5,1.5 0 0 1 68,47 L36,47 A1.5,1.5 0 0 1 36,44 Z" />
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M36,52 L68,52 A1.5,1.5 0 0 1 68,55 L36,55 A1.5,1.5 0 0 1 36,52 Z" />
+
+    <!-- Circular / Shield Warranty Badge -->
+    <path
+        android:fillColor="#2563EB"
+        android:pathData="M54,52 C64,52 72,60 72,70 C72,79 64,84 54,88 C44,84 36,79 36,70 C36,60 44,52 54,52 Z" />
+
+    <!-- Shield inner highlight -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M54,55 C62,55 69,61 69,70 C69,77 62,81 54,85 C46,81 39,77 39,70 C39,61 46,55 54,55 Z" />
+
+    <!-- Warranty Checkmark -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M51.5,74.5 L46,69 L48.5,66.5 L51.5,69.5 L59.5,61.5 L62,64 Z" />
+</vector>

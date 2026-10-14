@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BillVault</string>
+    <string name="tagline">Smart Bill &amp; Warranty Vault</string>
+    <string name="search_hint">Search bills, products, brands…</string>
+    <string name="scan_bill">Scan Bill / Warranty</string>
+    <string name="add_manually">Add Manually</string>
+    <string name="all_items">All</string>
+    <string name="active">Active</string>
+    <string name="expiring_soon">Expiring Soon</string>
+    <string name="expired">Expired</string>
+</resources>

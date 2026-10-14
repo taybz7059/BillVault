@@ -1,0 +1,6 @@
+{
+  "name": "BillVault",
+  "description": "Smart Bill & Warranty tracker. Snap photos of receipts and guarantee cards to auto-extract warranty dates, amounts, and store bills safely.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
